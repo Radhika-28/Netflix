@@ -1,0 +1,59 @@
+body{
+	
+	background: url('https://i.ibb.co/vXqDmnh/background.jpg') no-repeat center center/cover;
+}
+.signup_body{
+	
+	padding: 40px 30px;
+	z-index: 90;
+	position: relative;
+	max-width: 330px;
+	height: 600px;
+	margin-left: 40%;
+	background-color: rgba(0,0,0,0.75);
+	border-radius: 10px;
+	box-sizing: border-box;
+}
+.signup_body h2{
+	font-size: 32px;
+	color: #fff;
+	margin-top: 0;
+}
+.signup_body input{
+	height: 50px;
+	width: 100%;
+	border-radius: 3px;
+	color: #fff;
+	background-color: #333;
+	border: 1px solid #333;
+	padding-left: 15px;
+	box-sizing: border-box;
+	outline: none;
+	
+}
+.input_wrap{
+	margin-bottom: 25px;
+}
+
+.signup_body button{
+	height: 50px;
+	width: 100%;
+	color: #fff;
+	background: #e50914;
+	border-radius: 3px;
+	font-weight: 500;
+	font-size: 16px;
+	border: 1px solid #e50914;
+	
+
+}
+.sign_up{
+	color: #fff;
+	font-size: 16px;
+}
+.sign_up a{
+	color:darkviolet;
+	font-size: 16px;
+	text-decoration: none;
+	
+}
